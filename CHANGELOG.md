@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/compare/v0.3.0...v0.4.0) (2026-06-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* liberación de la API pública estable de los tres módulos (vpc, ec2, s3) para consumo desde el repositorio principal. A partir de este release, cualquier cambio incompatible incrementará la versión MAJOR.
+
+### Features
+
+* API estable de los módulos vpc, ec2 y s3 ([c99bc2e](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/commit/c99bc2e315dd42b4e789cd9ded5933d08948184b))
+
 ## [0.3.0](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/compare/v0.2.0...v0.3.0) (2026-06-03)
 
 
