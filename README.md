@@ -77,3 +77,7 @@ modules/<nombre>/
     ├── main.tf
     └── README.md
 ```
+
+## Versión estable
+
+Esta es la primera versión estable (`v1.0.0`) lista para producción.
