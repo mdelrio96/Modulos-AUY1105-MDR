@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/compare/v0.2.0...v0.3.0) (2026-06-03)
+
+
+### Features
+
+* agregar módulo s3 para bucket S3 ([e1b1234](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/commit/e1b12348357cae41f241ad49a69bba6623554d38))
+
 ## [0.2.0](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/compare/v0.1.0...v0.2.0) (2026-06-03)
 
 
