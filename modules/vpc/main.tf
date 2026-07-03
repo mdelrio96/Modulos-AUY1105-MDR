@@ -63,7 +63,7 @@ resource "aws_route_table_association" "public" {
   route_table_id = aws_route_table.public.id
 }
 
-resource "aws_security_group" "ssh" {
+/*resource "aws_security_group" "ssh" {
   name        = "AUY1105-${var.project_name}-${var.environment}-ssh-sg"
   description = "SSH desde CIDR autorizado, salida total a Internet."
   vpc_id      = aws_vpc.this.id
@@ -88,4 +88,4 @@ resource "aws_security_group" "ssh" {
     Name        = "AUY1105-${var.project_name}-${var.environment}-ssh-sg"
     Environment = var.environment
   }
-}
+}*/

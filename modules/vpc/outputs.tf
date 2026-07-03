@@ -8,7 +8,7 @@ output "subnet_ids" {
   value       = concat(aws_subnet.public[*].id, aws_subnet.private[*].id)
 }
 
-output "ssh_security_group_id" {
+/*output "ssh_security_group_id" {
   description = "ID del security group SSH. Consumido por el módulo ec2."
   value       = aws_security_group.ssh.id
-}
+}*/
